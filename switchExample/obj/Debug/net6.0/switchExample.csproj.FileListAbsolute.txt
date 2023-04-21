@@ -1,0 +1,15 @@
+C:\Users\Redbin\source\repos\switchExample\switchExample\obj\Debug\net6.0\switchExample.csproj.AssemblyReference.cache
+C:\Users\Redbin\source\repos\switchExample\switchExample\obj\Debug\net6.0\switchExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redbin\source\repos\switchExample\switchExample\obj\Debug\net6.0\switchExample.AssemblyInfoInputs.cache
+C:\Users\Redbin\source\repos\switchExample\switchExample\obj\Debug\net6.0\switchExample.AssemblyInfo.cs
+C:\Users\Redbin\source\repos\switchExample\switchExample\obj\Debug\net6.0\switchExample.csproj.CoreCompileInputs.cache
+C:\Users\Redbin\source\repos\switchExample\switchExample\bin\Debug\net6.0\switchExample.exe
+C:\Users\Redbin\source\repos\switchExample\switchExample\bin\Debug\net6.0\switchExample.deps.json
+C:\Users\Redbin\source\repos\switchExample\switchExample\bin\Debug\net6.0\switchExample.runtimeconfig.json
+C:\Users\Redbin\source\repos\switchExample\switchExample\bin\Debug\net6.0\switchExample.dll
+C:\Users\Redbin\source\repos\switchExample\switchExample\bin\Debug\net6.0\switchExample.pdb
+C:\Users\Redbin\source\repos\switchExample\switchExample\obj\Debug\net6.0\switchExample.dll
+C:\Users\Redbin\source\repos\switchExample\switchExample\obj\Debug\net6.0\refint\switchExample.dll
+C:\Users\Redbin\source\repos\switchExample\switchExample\obj\Debug\net6.0\switchExample.pdb
+C:\Users\Redbin\source\repos\switchExample\switchExample\obj\Debug\net6.0\switchExample.genruntimeconfig.cache
+C:\Users\Redbin\source\repos\switchExample\switchExample\obj\Debug\net6.0\ref\switchExample.dll
